@@ -192,7 +192,7 @@ footer {
   width: 100%;
 }
 
-body, h1, h2, h3, h4, h5, h6, p, input, button, .navbar ul li a {
+body, h1, h2, h3, h4, h5, h6, p, input, button, .navbar ul li a ,footer{
   font-family: 'Poppins', sans-serif;
 }
 
